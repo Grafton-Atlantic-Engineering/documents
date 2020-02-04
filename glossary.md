@@ -1,14 +1,25 @@
 principal - The original sum of money to be paid before interest
+
 debt intrstument - is a tool an entity can utilize in order to raise capital
+
 mortgage - a debt instrument which is taken out in the form of a loan on a real estate property, where said property is held as collateral
+
 transaction - an event which has monetary impact on the financial statements of a business
+
 teller/cashier - bank employee who oversees transactions to and from the bank
+
 balancing - the act of ensuring that the credits & debits in an account are equal 
+
 credit - add money to an account
+
 debit - to remove money from an account
+
 account - an arrangement made with a bank where one may deposit and withdraw money
+
 savings account - an account which accrues interest over a period of time. This type of account is usually solid and isn't intended to see regular transactions
+
 checking account - a deposit account which allows withdrawals and deposits. These types are very liquid and are meant to have money on demand
+
 joint account - an account opened by multiple entities, the verification necessary to make transactions varies based on account
 
 amortization - accounting technique used to periodically lower the book value of a loan or intangible asset over a set period of time
