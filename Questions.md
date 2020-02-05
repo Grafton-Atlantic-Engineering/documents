@@ -44,9 +44,21 @@
 
 14. Do you know often errors occur in the posting process? How are they being corrected?
   - Little to no error should be equally concerning as lots of errors. 
+
+### Electronic Banking Payment Processing
+
+15. How are unreconciled payments handled?
+
+16. How are the bank statement tables designed, and how is the electronic statement loaded in? 
+
+17. Are staging tables being used prior to loading the data into the statement tables? If so, how are they designed? 
+
+18. Is the reconcilation process automated? If so, how is it designed, otherwise who handles it?
+
+
  
 Sources: 
 https://www.slideshare.net/accenttrading/banking-system-presentation
 https://bizfluent.com/info-10070882-usual-sequence-steps-recording-process-accounting.html
-
+https://docs.oracle.com/cd/E41948_01/fscm92pbh1/eng/fscm/fsbk/concept_UnderstandingBankReconciliationProcessing-9f25c4.html
 
