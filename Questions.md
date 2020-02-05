@@ -62,3 +62,4 @@ https://www.slideshare.net/accenttrading/banking-system-presentation
 https://bizfluent.com/info-10070882-usual-sequence-steps-recording-process-accounting.html
 https://docs.oracle.com/cd/E41948_01/fscm92pbh1/eng/fscm/fsbk/concept_UnderstandingBankReconciliationProcessing-9f25c4.html
 
+
