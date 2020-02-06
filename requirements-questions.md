@@ -13,7 +13,7 @@
 10.	How would you like the users to interact with this product (interact with it using the command line, create a front end with a graphical interface)? If you would like a graphical interface, are there any design aspects you want incorporated such as specific colors, fonts, etc.?
 11.	 Is there any particular data or inputs that this program needs? And if so, what are some examples of invalid data that we must make sure doesn’t get put through the program?
 12.	What type of work does your business do? Are you a general consumer bank with checking and saving accounts, do you offer loans, CDs, do you do investments or retirement options such as ROTHs or 401ks?
-13.     What type of safety features would you like? (what type of data needs to be hidden, should the program close its session when it's done, etc.)
+13. What type of safety features would you like? (what type of data needs to be hidden, should the program close its session when it's done, etc.)
 
 # Oleg's Contribution### Open-Ended questions
 
