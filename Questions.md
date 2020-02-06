@@ -56,6 +56,18 @@
 18. Is the reconcilation process automated? If so, how is it designed, otherwise who handles it?
 
 
+
+### Transactions!!!
+
+19. Should transactions be publicly verifiable?
+
+20. Which entities will be transacting?
+
+21. Who should be trusted to verify the transaction?
+
+22. What information needs to be encoded in the transaction?
+
+23. Will past transactions be related to the current transaction? (they're likely to be independent)
  
 Sources: 
 https://www.slideshare.net/accenttrading/banking-system-presentation
