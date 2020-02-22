@@ -1,4 +1,34 @@
 # Requirements List
 
-- I will do this this weekend
-
+- We need to create a random generator to produce a random 24 character alpha numeric transaction number (there should be no special characters, only numbers and letters) -> this must be true randomness and not pseudo random
+- We will be getting our data from a CSV file which will be comprised of an account number (alpha numeric), first name, last name, street, state, zip code, company
+- All we need from the program is the CSV file to create a transaction ID for each user each time they log in
+- The program will be integrated into our client's current system that handles the 10 character transaction ID generator and it will replace the 10 character transaction ID generator
+- The current transaction ID generator is being replaced because is not creating a truly random transaction number and it is only creating a 10 digit transaction ID but the client now wants 24
+- This program will replace the functionality of the 10 digit one (this will be a class with a name that he gives us that will have a method)
+- This will be truly randomized
+- The transaction ID will not be stored in a database or file, it will be generated each time the user logs in
+- The goal of our transaction ID program is so the customers will be better served because it will be a truly randomized transaction ID so their personal information will be protected
+- This program won’t be used by a user necessarily, it will be put into production program
+- This randomized number will be with the customer in a window session throughout the entire time they are logged in
+-	The transaction ID will be for web transactions, ATMs, etc. 
+-	Each transaction ID must be unique – each time a customer logs in, they get a unique ID that carries through the session
+- The highest objective of the program is to not crash – need to make sure that if there is data in the data stream that is incorrect the program recovers from it and still creates a transaction ID
+- It will be part of a complete application that runs off of tomcat, maybe part of the servlet
+-	There is no encryption standard
+-	Run time – the client wants the program to be as fast as possible
+-	There will be about 15-115 users per second
+-	The code needs to be commented so the client's team knows what each part of our program does
+-	Session ID will be part of the structure and the transaction ID will be associated with it – won’t be a part of the session ID but will be associated with it
+-	Once the user logs in they will be assigned this transaction ID
+-	The transaction ID will take both upper and lower case as well as digits 0-9, no special characters
+-	Null is invalid for input, we won’t have to deal with bad data except for nulls
+-	There are customers all over the world
+-	We can use any pre-existing libraries
+-	We don’t have to worry about data hiding
+-	We don’t have to worry about it being a duplicate of it being a previously random generated number
+-	Get rid of the transaction ID after user logs out
+-	Wants it in a class form – instantiate an object and it will be imbedded in an already existing program
+-	Wants logging capability – needs to log the row, the number of iterations that the loop did to the console (System.out)
+-	Errors will be in a try/catch block and the exception should be printed to the console
+-	Not requiring unit testing but would be good to add
