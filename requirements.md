@@ -7,6 +7,7 @@
 - The current transaction ID generator is being replaced because is not creating a truly random transaction number and it is only creating a 10 digit transaction ID but the client now wants 24
 - This program will replace the functionality of the 10 digit one (this will be a class with a name that he gives us that will have a method)
 - This will be truly randomized
+- The language our program should be in is Java
 - The transaction ID will not be stored in a database or file, it will be generated each time the user logs in
 - The goal of our transaction ID program is so the customers will be better served because it will be a truly randomized transaction ID so their personal information will be protected
 - This program won’t be used by a user necessarily, it will be put into production program
