@@ -31,5 +31,6 @@
 -	Get rid of the transaction ID after user logs out
 -	Wants it in a class form – instantiate an object and it will be imbedded in an already existing program
 -	Wants logging capability – needs to log the row, the number of iterations that the loop did to the console (System.out)
+- Must write robust code and do as much data validation as possible so the client has a very hard time breaking it
 -	Errors will be in a try/catch block and the exception should be printed to the console
 -	Not requiring unit testing but would be good to add
