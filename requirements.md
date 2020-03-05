@@ -34,3 +34,4 @@
 - Must write robust code and do as much data validation as possible so the client has a very hard time breaking it
 -	Errors will be in a try/catch block and the exception should be printed to the console
 -	Not requiring unit testing but would be good to add
+- We need to add lines of code to analysis as well as hourly rate, how long we spent coding per person, and the total amount it will cost him
